@@ -1,0 +1,11 @@
+div#mostrarReg{
+    height: 87vh;
+    width: 65vw;
+    float: left;
+}
+
+div#datosEsp{
+    height: 87vh;
+    width: 30vw;
+    float: left;
+}
